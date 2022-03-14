@@ -3,7 +3,7 @@ import React, { Component } from "react";
 class MyImg extends Component {
     render() {
         return(
-            <img src="./img/Carlos.jpg" alt="profile" />
+            <img src="https://raw.githubusercontent.com/CarlinGebyte/WebPack-AG-S3-C1/main/src/img/Carlos.jpg" alt="profile" />
         )
     }
 }
