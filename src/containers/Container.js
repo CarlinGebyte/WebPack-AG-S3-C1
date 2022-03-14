@@ -15,8 +15,11 @@ class Container extends Component {
         <div>
             <EducationTittle/>
             <h5>MisionTIC 2022</h5>
-            <p>Diplomado - 4 cursos - Python - JS - Java Spring</p>
-            <h3></h3>
+            <h3>Universidad Sergio Arboleda</h3>
+            <p>Diplomado - 800 Horas - Python - JS - Java Spring</p>
+            <h5>Técnico en Matenimiento de Equipos de cómputo</h5>
+            <h3>SENA</h3>
+            <p>Mantenimiento a computadoras e instalación de cableado estructurado</p>
         </div>
         <div>
             <ExperienceTittle/>
